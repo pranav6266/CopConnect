@@ -25,14 +25,3 @@ A **messaging application for police officers** to improve communication, coordi
 - **Next Steps**:
   - Backend development and integration with **Firebase** services.
 
-## Tech Stack
-- **Frontend**: (Add your frontend frameworks/libraries, e.g., React, Flutter)
-- **Backend**: Firebase (Firestore, Authentication, etc.)
-- **Other Tools**: (Add if any, like Figma for design, Postman for API testing, etc.)
-
-## Future Plans
-- Complete backend functionalities.
-- Implement real-time messaging and location sharing.
-- Add authentication and secure data storage.
-- Polish UI/UX for seamless user experience.
-- Extensive testing and deployment.
