@@ -4,7 +4,7 @@
 
 ## Project Overview
 **COP CONNECT** \
-a **messaging application for police officers** to improve communication, coordination, and well-being within the force. This project is part of the **"Namma Suraksha Hackathon"** initiative.
+A **messaging application for police officers** to improve communication, coordination, and well-being within the force. This project is part of the **"Namma Suraksha Hackathon"** initiative.
 
 ### Core Features
 - **Secure Messaging**: Officers can interact with each other through real-time messages.
