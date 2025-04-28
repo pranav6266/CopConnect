@@ -3,8 +3,8 @@
 **Sustainability and Environmental Safety**
 
 ## Project Overview
-**COP CONNECT**
-We are developing a **messaging application for police officers** to improve communication, coordination, and well-being within the force. This project is part of the **"Namma Suraksha Hackathon"** initiative.
+**COP CONNECT** \
+a **messaging application for police officers** to improve communication, coordination, and well-being within the force. This project is part of the **"Namma Suraksha Hackathon"** initiative.
 
 ### Core Features
 - **Secure Messaging**: Officers can interact with each other through real-time messages.
