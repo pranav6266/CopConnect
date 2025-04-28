@@ -1,2 +1,38 @@
-# CopConnect
-A messaging app made for police
+# Namma Suraksha Hackathon Project
+## Theme
+**Sustainability and Environmental Safety**
+
+## Project Overview
+**COP CONNECT**
+We are developing a **messaging application for police officers** to improve communication, coordination, and well-being within the force. This project is part of the **"Namma Suraksha Hackathon"** initiative.
+
+### Core Features
+- **Secure Messaging**: Officers can interact with each other through real-time messages.
+- **Live Location Sharing**: Share current location during emergencies or operations.
+- **Emergency Alerts**: Quickly broadcast emergency situations to nearby units.
+- **Chill Room**: 
+  - Share memes and jokes.
+  - Play mini-games for stress relief.
+- **Chatbot Integration**: An AI-powered assistant to help officers with quick queries.
+- **Case Discussions**: Dedicated section to discuss active and historical cases.
+- **News Section**: Stay updated with latest news relevant to law enforcement and public safety.
+
+## Current Development Status
+- **Frontend**:
+  - ✅ Login Section Completed
+  - ✅ Basic Messaging Layout Completed
+  - ✅ Buttons Layout Completed
+- **Next Steps**:
+  - Backend development and integration with **Firebase** services.
+
+## Tech Stack
+- **Frontend**: (Add your frontend frameworks/libraries, e.g., React, Flutter)
+- **Backend**: Firebase (Firestore, Authentication, etc.)
+- **Other Tools**: (Add if any, like Figma for design, Postman for API testing, etc.)
+
+## Future Plans
+- Complete backend functionalities.
+- Implement real-time messaging and location sharing.
+- Add authentication and secure data storage.
+- Polish UI/UX for seamless user experience.
+- Extensive testing and deployment.
